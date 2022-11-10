@@ -1,0 +1,149 @@
+{
+   "checksum": "c41f5eda92f83e219574f2aabc7c0de2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13312312984068178",
+            "date_last_used": "0",
+            "guid": "7f596332-8335-4890-863d-c9a414b1a5b1",
+            "id": "8",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=NW21C2EF"
+         }, {
+            "date_added": "13312312984068053",
+            "date_last_used": "0",
+            "guid": "a41ce9d3-c259-423d-b5e1-a10ccca4c51e",
+            "id": "7",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13312312984067837",
+            "date_last_used": "0",
+            "guid": "0aa1e273-ee9b-4c91-bac1-21e45592fa03",
+            "id": "6",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13312312984066607",
+            "date_last_used": "0",
+            "guid": "6b65ee17-e8bc-488d-807c-1e5c9ba16c41",
+            "id": "5",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13293295591238971",
+            "date_last_used": "0",
+            "guid": "59405e3b-4850-45d6-a8f8-ca269d540597",
+            "id": "9",
+            "name": "LastPass",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://www.lastpass.com/hpwelcome"
+         } ],
+         "date_added": "13312312983771973",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13293295591301892",
+               "date_last_used": "0",
+               "guid": "62bf8e85-f1f3-48f4-bbcb-6830e4ce4104",
+               "id": "11",
+               "name": "Accessories",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=*&c=*&locale=*_us&pf=*&s=*&tp=*&TYPE=3"
+            }, {
+               "date_added": "13293295591301892",
+               "date_last_used": "0",
+               "guid": "34ee214f-8fc3-40ec-b2a1-8bedf526bb3e",
+               "id": "12",
+               "name": "HP Store",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=*&c=*&locale=*&pf=*&s=Hpstore&tp=*&TYPE=3"
+            }, {
+               "date_added": "13293295591238971",
+               "date_last_used": "0",
+               "guid": "e5ef9f5f-c089-4041-9756-42999e374509",
+               "id": "13",
+               "name": "LastPass",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://www.lastpass.com/hpwelcome"
+            }, {
+               "date_added": "13293295591301892",
+               "date_last_used": "0",
+               "guid": "3d8a35be-a705-47f1-adc4-87565b068571",
+               "id": "14",
+               "name": "Printing",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=*&c=*&locale=*&pf=*&s=printing&tp=*&TYPE=3"
+            }, {
+               "date_added": "13293295591301892",
+               "date_last_used": "0",
+               "guid": "954cfd0c-6f1a-4d8b-9a47-afd50e2c54a1",
+               "id": "15",
+               "name": "Software and Driver Downloads",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=*&c=*&locale=en_us&pf=*&s=hp_support&tp=*&TYPE=3"
+            } ],
+            "date_added": "13312312987822596",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "659c9e30-7f31-4763-9bf9-17d3e74a61c9",
+            "id": "10",
+            "name": "HP",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13312312983771975",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13312312983771976",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
